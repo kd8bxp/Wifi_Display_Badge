@@ -50,7 +50,9 @@ SSD1306.h  see above.
 
 Other Libraries are included with the respective board managers.  
 
-## Things To Do
+## Video
+
+https://youtu.be/fMKPxThoW1I  
 
 ## Usage
 
@@ -67,8 +69,8 @@ see above, general knowledge of MQTT is helpful.
 ## Support Me
 
 If you find this or any of my projects useful or enjoyable please support me.
-Anything I do get goes to buy more parts and make more/better projects.
-https://www.patreon.com/kd8bxp
+Anything I do get goes to buy more parts and make more/better projects.  
+https://www.patreon.com/kd8bxp  
 https://ko-fi.com/lfmiller
 
 ## Other Projects
